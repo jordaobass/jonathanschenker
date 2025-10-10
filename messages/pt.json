@@ -1,0 +1,84 @@
+{
+  "hero": {
+    "title": "Full Stack Developer",
+    "description": "Desenvolvedor apaixonado por tecnologia, focado em criar soluções que fazem a diferença. Especializado em desenvolvimento full stack com experiência em web, mobile e backend.",
+    "repositories": "Repositórios",
+    "yearsExperience": "Anos de Experiência",
+    "countries": "Países"
+  },
+  "nav": {
+    "github": "GitHub",
+    "linkedin": "LinkedIn"
+  },
+  "sections": {
+    "technologies": "Tecnologias",
+    "experience": "Experiência Profissional",
+    "sectors": "Setores de Atuação",
+    "projects": "Projetos Recentes",
+    "about": "Sobre Mim",
+    "highlights": "Destaques"
+  },
+  "experience": {
+    "frontend": {
+      "title": "Frontend Developer",
+      "description": "Atualmente trabalho com JavaScript, TypeScript, Angular, React e Next.js, desenvolvendo aplicações web modernas. Experiência em redução de tempo de carregamento, otimização de performance e implementação de arquiteturas microfrontends para escalabilidade."
+    },
+    "backend": {
+      "title": "Backend Developer",
+      "description": "Desenvolvimento de sistemas backend robustos e escaláveis utilizando Java e .NET Core, com foco em arquiteturas de microserviços, APIs RESTful e GraphQL. Experiência em otimização de queries e design de sistemas distribuídos."
+    },
+    "devops": {
+      "title": "DevOps Engineer",
+      "description": "Implementação de pipelines CI/CD, containerização com Docker, orquestração com Kubernetes. Automação de deploys, monitoramento de aplicações e infraestrutura como código para ambientes cloud."
+    },
+    "lead": {
+      "title": "Líder Técnico",
+      "description": "Liderança de times de desenvolvimento, definição de arquiteturas de software, code review, mentoria técnica e tomada de decisões estratégicas sobre stack tecnológico e boas práticas de desenvolvimento."
+    },
+    "mobile": {
+      "title": "Mobile Developer",
+      "description": "Desenvolvimento de aplicações mobile multiplataforma utilizando Flutter, com foco em performance, UX/UI responsiva e integração com APIs. Publicação e manutenção de apps nas stores."
+    }
+  },
+  "sectors": {
+    "description": "Da inovação das startups à estabilidade do setor bancário, da transformação digital no governo à revolução na saúde - minha jornada atravessou continentes e indústrias! 🌎 Cada projeto, um novo desafio. Cada setor, uma nova perspectiva.",
+    "quote": "💡 De zero a unicórnio, de legado a cloud-native - já vi (e construí) de tudo um pouco!",
+    "public": "Setor Público",
+    "banking": "Setor Bancário",
+    "startups": "Startups (Fundador)",
+    "health": "Saúde"
+  },
+  "projects": {
+    "viewProject": "Ver Projeto",
+    "viewAll": "Ver todos os {count} repositórios"
+  },
+  "about": {
+    "description1": "Sou aquele desenvolvedor que acorda pensando em código e dorme sonhando com soluções inovadoras! 💻✨ Transformo café em código e ideias em produtos reais.",
+    "description2": "Minha jornada na tecnologia é guiada por uma curiosidade insaciável. Cada projeto é uma oportunidade de aprender algo novo, seja otimizando performance, desenhando arquiteturas escaláveis ou simplesmente encontrando aquela solução criativa que faz tudo funcionar perfeitamente.",
+    "description3": "Tenho um carinho especial por projetos que impactam pessoas de verdade - como aquele sistema que transformou meses de espera em minutos de eficiência. É isso que me move: criar tecnologia que faz diferença na vida real.",
+    "hobbiesTitle": "Quando não estou mergulhado em JavaScript, TypeScript, React, Angular ou Flutter, você vai me encontrar:",
+    "quote": "\"A melhor forma de prever o futuro é inventá-lo\" - e é exatamente isso que faço, uma linha de código por vez! 🚀"
+  },
+  "footer": {
+    "rights": "Todos os direitos reservados.",
+    "madeWith": "Feito com Next.js, TypeScript e ❤️"
+  },
+  "highlights": [
+    "Eliminei um processo burocrático de 6 meses, permitindo que cidadãos sejam licenciados em 5 minutos através de um sistema digital otimizado.",
+    "Implementei arquitetura de microfrontends que reduziu o tempo de carregamento em 60% e melhorou a escalabilidade do sistema.",
+    "Integrei soluções de IA (ChatGPT e Claude) em sistemas corporativos, automatizando processos e aumentando produtividade em 40%.",
+    "Desenvolvi chatbots inteligentes com IA para atendimento ao cliente, reduzindo tempo de resposta de horas para segundos.",
+    "Liderei projeto internacional de desenvolvimento, com soluções entregues para 4 países diferentes.",
+    "Desenvolvi sistema de monitoramento com Grafana e Prometheus que reduziu o tempo de detecção de problemas em 80%.",
+    "Fundei e desenvolvi soluções técnicas para startups, levando projetos do zero ao produto final em produção."
+  ],
+  "hobbies": [
+    "🎮 Jogando (Dota é vida!)",
+    "📚 Lendo mangá",
+    "💭 Devorando HQs",
+    "🍳 Experimentando receitas",
+    "🎵 Ouvindo música",
+    "🏀 Jogando basquete",
+    "🌱 Aprendendo algo totalmente novo"
+  ]
+}

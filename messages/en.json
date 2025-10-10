@@ -1,0 +1,84 @@
+{
+  "hero": {
+    "title": "Full Stack Developer",
+    "description": "Passionate developer focused on creating solutions that make a difference. Specialized in full stack development with experience in web, mobile and backend.",
+    "repositories": "Repositories",
+    "yearsExperience": "Years of Experience",
+    "countries": "Countries"
+  },
+  "nav": {
+    "github": "GitHub",
+    "linkedin": "LinkedIn"
+  },
+  "sections": {
+    "technologies": "Technologies",
+    "experience": "Professional Experience",
+    "sectors": "Industry Sectors",
+    "projects": "Recent Projects",
+    "about": "About Me",
+    "highlights": "Highlights"
+  },
+  "experience": {
+    "frontend": {
+      "title": "Frontend Developer",
+      "description": "Currently working with JavaScript, TypeScript, Angular, React and Next.js, developing modern web applications. Experience in reducing loading time, performance optimization and implementing microfrontend architectures for scalability."
+    },
+    "backend": {
+      "title": "Backend Developer",
+      "description": "Development of robust and scalable backend systems using Java and .NET Core, focusing on microservices architectures, RESTful APIs and GraphQL. Experience in query optimization and distributed systems design."
+    },
+    "devops": {
+      "title": "DevOps Engineer",
+      "description": "Implementation of CI/CD pipelines, containerization with Docker, orchestration with Kubernetes. Deploy automation, application monitoring and infrastructure as code for cloud environments."
+    },
+    "lead": {
+      "title": "Tech Lead",
+      "description": "Leading development teams, defining software architectures, code review, technical mentoring and making strategic decisions about technology stack and development best practices."
+    },
+    "mobile": {
+      "title": "Mobile Developer",
+      "description": "Cross-platform mobile app development using Flutter, focusing on performance, responsive UX/UI and API integration. Publishing and maintaining apps on stores."
+    }
+  },
+  "sectors": {
+    "description": "From startup innovation to banking stability, from government digital transformation to healthcare revolution - my journey has crossed continents and industries! 🌎 Each project, a new challenge. Each sector, a new perspective.",
+    "quote": "💡 From zero to unicorn, from legacy to cloud-native - I've seen (and built) it all!",
+    "public": "Public Sector",
+    "banking": "Banking Sector",
+    "startups": "Startups (Founder)",
+    "health": "Healthcare"
+  },
+  "projects": {
+    "viewProject": "View Project",
+    "viewAll": "View all {count} repositories"
+  },
+  "about": {
+    "description1": "I'm that developer who wakes up thinking about code and dreams of innovative solutions! 💻✨ I turn coffee into code and ideas into real products.",
+    "description2": "My journey in technology is guided by an insatiable curiosity. Each project is an opportunity to learn something new, whether optimizing performance, designing scalable architectures, or simply finding that creative solution that makes everything work perfectly.",
+    "description3": "I have a special fondness for projects that truly impact people - like that system that transformed months of waiting into minutes of efficiency. That's what drives me: creating technology that makes a difference in real life.",
+    "hobbiesTitle": "When I'm not immersed in JavaScript, TypeScript, React, Angular or Flutter, you'll find me:",
+    "quote": "\"The best way to predict the future is to invent it\" - and that's exactly what I do, one line of code at a time! 🚀"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "madeWith": "Made with Next.js, TypeScript and ❤️"
+  },
+  "highlights": [
+    "Eliminated a 6-month bureaucratic process, allowing citizens to be licensed in 5 minutes through an optimized digital system.",
+    "Implemented microfrontend architecture that reduced loading time by 60% and improved system scalability.",
+    "Integrated AI solutions (ChatGPT and Claude) into corporate systems, automating processes and increasing productivity by 40%.",
+    "Developed intelligent AI chatbots for customer service, reducing response time from hours to seconds.",
+    "Led international development project, with solutions delivered to 4 different countries.",
+    "Developed monitoring system with Grafana and Prometheus that reduced problem detection time by 80%.",
+    "Founded and developed technical solutions for startups, taking projects from zero to final product in production."
+  ],
+  "hobbies": [
+    "🎮 Gaming (Dota is life!)",
+    "📚 Reading manga",
+    "💭 Devouring comics",
+    "🍳 Trying new recipes",
+    "🎵 Listening to music",
+    "🏀 Playing basketball",
+    "🌱 Learning something totally new"
+  ]
+}
