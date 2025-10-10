@@ -7,6 +7,10 @@ import Image from "next/image";
 import { HighlightsCarousel } from "@/components/highlights-carousel";
 import { getTranslations } from 'next-intl/server';
 
+export function generateStaticParams() {
+  return [{ locale: 'pt' }, { locale: 'en' }];
+}
+
 export default async function Home() {
   const t = await getTranslations();
   const githubUsername = "jordaobass";
